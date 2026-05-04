@@ -20,7 +20,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:4200',
   'https://employe-ms.netlify.app',
-  'https://employee-ms-one.vercel.app'
+  'https://employee-ms-v1.netlify.app'
 ];
 
 app.use(cors({
